@@ -10,7 +10,7 @@ This is my attempt at solving the 30 Javascript challenges by Wes Bos. I'll also
 **Starting date: 03/10/2020**
 
 * [x] 01 - JavaScript Drum Kit (Done 03/10/2020)
-* [ ] 02 - JS and CSS Clock
+* [x] 02 - JS and CSS Clock (Done 04/10/2020)
 * [ ] 03 - CSS Variables
 * [ ] 04 - Array Cardio Day 1
 * [ ] 05 - Flex Panel Gallery
