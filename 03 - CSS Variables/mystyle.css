@@ -1,0 +1,52 @@
+:root {
+  --base-color: yellow;
+  --blur: 0px;
+  --spacing: 0px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #193549;  
+  color: white;
+  font-family: 'helvetica neue', sans-serif;
+  font-weight: 100;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-top: 1rem;
+}
+
+label {
+  font-size: 2rem;
+}
+
+.container {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.controls {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+img {
+  background-color: var(--base-color);
+  filter: blur(var(--blur));
+  -webkit-filter: blur(var(--blur));
+  padding: var(--spacing);
+}
+
+.base-color {
+  color: var(--base-color);
+}

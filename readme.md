@@ -11,7 +11,7 @@ This is my attempt at solving the 30 Javascript challenges by Wes Bos. I'll also
 
 * [x] 01 - JavaScript Drum Kit (Done 03/10/2020)
 * [x] 02 - JS and CSS Clock (Done 04/10/2020)
-* [ ] 03 - CSS Variables
+* [x] 03 - CSS Variables (Done 05/10/2020)
 * [ ] 04 - Array Cardio Day 1
 * [ ] 05 - Flex Panel Gallery
 * [ ] 06 - Type Ahead
